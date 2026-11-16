@@ -1,0 +1,6 @@
+{
+  "name": "GAMECOACH AI",
+  "description": "Il tuo coach AI di gaming in italiano: allenamenti personalizzati, obiettivi giornalieri e statistiche per Fortnite, Call of Duty, Brawl Stars, Free Fire, Minecraft, Roblox, Rocket League ed EA Sports FC.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
